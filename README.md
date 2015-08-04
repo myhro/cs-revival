@@ -35,4 +35,7 @@ This repository is made of sources mostly related to what is needed in interview
 
 You can find a list of them in the [REFERENCES][references] file.
 
+A list of [suggested books][books] is also available.
+
+[books]: BOOKS.md
 [references]: REFERENCES.md
